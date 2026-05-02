@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center"> 
-  <img src="evanescia-hsr.gif" width="70%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
+  <img src="evanescia_hsr.gif" width="50%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
 </div>
 
 ###
