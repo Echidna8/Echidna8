@@ -38,6 +38,7 @@
 <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>
 <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
 <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 
 ###
 <p align="center">
