@@ -29,7 +29,7 @@
 <h2 align="center">Technologies</h2>
 <div align="center">
 <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"/>
+<img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"/>
 <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/>
 <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img width="40px" heigth="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
