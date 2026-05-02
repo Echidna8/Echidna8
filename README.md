@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center"> 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
+</div>
 <!--
 **Echidna8/Echidna8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
